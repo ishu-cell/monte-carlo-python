@@ -76,10 +76,6 @@ If you'd like to contribute to this project, please follow these steps:
 3. Commit your changes and push to your branch.
 4. Create a pull request to the original repository's `main` branch.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## Acknowledgments
 
 - The Monte Carlo option pricing model is based on standard financial engineering principles.
